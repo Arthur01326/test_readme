@@ -24,4 +24,4 @@
 * *Telegram* - @arthur_kim
 
 ## :bridge_at_night: Заключение 
-Этот "README" - напоминание того чего я достиг и куда надо стремится. I'm taking it all down, brick by brick.
+Этот "README" - напоминание того чего я достиг и куда надо стремится. I'm taking it all down, brick by brick..
